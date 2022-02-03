@@ -1,5 +1,6 @@
 # CEH_Training
-:neckbeard:	 ## Hola!! Rajeev Ranjan
+:neckbeard:	:bowtie: :octocat:	:godmode:	:rage1:	:feelsgood:	
+## Hola!! Rajeev Ranjan
 
 
 <img src="https://github.com/rajeevranjancom/CEH_Training/blob/main/Day01%20Cmd/Task01_page-0001.jpg" style="max-width: 100%;" alt="Welcome images" />
