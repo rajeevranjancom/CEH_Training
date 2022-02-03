@@ -1,5 +1,5 @@
 # CEH_Training
-# :neckbeard:	:bowtie: :octocat:	:godmode:	:rage1:	:feelsgood:	🙈
+# :neckbeard:	:bowtie: :octocat:	:godmode:	:rage1:	:feelsgood:	🙈 🙉 🙊 🦦 🦇 🐉
 ## Hola!! Rajeev Ranjan
 
 
